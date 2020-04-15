@@ -3,10 +3,10 @@
 rust server and chat
 
 ## rustchat dir
-rustchat dir is a server modul
+rustchat dir is a server module
 
 ## client dir
-client inside is a client 
+client dir is a client module
 ```
 use cargo run 
 
